@@ -8,9 +8,9 @@ and a levered platform at the bottom. When the levered platform is struck with
 a mallet it causes a puck to travel up a track attached to the tower. 
 
 When the platform is struck the puck travels vertically up the track. If hit
-hard enough enough the puck will ring the bell, signifying a winner.
+hard enough the puck will ring the bell, signifying a winner.
 
-The objective of the Highstriker app is to simulate this carnival carnival
+The objective of the Highstriker app is to simulate this carnival
 game. Instead of physical force to move the puck up the track use an algorithm 
 of your own design and a random number generator to determine the puck's
 speed and the distance it travels.
@@ -26,7 +26,7 @@ the game.
 -   [ ] User can see a score updated for each click of the 'Strike!' button -
 the number of times the bell was struck and the number of attempts.
 -   [ ] User can click a 'Clear' button to clear the score.
--   [ ] User can see a contratulations message when a total of 10 points are
+-   [ ] User can see a congratulations message when a total of 10 points are
 reached.
 
 ## Bonus features
